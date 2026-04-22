@@ -1,0 +1,29 @@
+---
+
+# jenkins variables
+project_name: docker-winegui
+external_type: github_stable
+release_type: stable
+release_tag: latest
+ls_branch: master
+repo_vars:
+  - EXT_USER = 'winegui'
+  - EXT_REPO = 'WineGUI'
+  - BUILD_VERSION_ARG = 'WINEGUI_VERSION'
+  - LS_USER = 'linuxserver'
+  - LS_REPO = 'docker-winegui'
+  - CONTAINER_NAME = 'winegui'
+  - DOCKERHUB_IMAGE = 'linuxserver/winegui'
+  - DEV_DOCKERHUB_IMAGE = 'lsiodev/winegui'
+  - PR_DOCKERHUB_IMAGE = 'lspipepr/winegui'
+  - DIST_IMAGE = 'debian'
+  - MULTIARCH = 'false'
+  - CI = 'true'
+  - CI_WEB = 'true'
+  - CI_PORT = '3001'
+  - CI_SSL = 'true'
+  - CI_DELAY = '120'
+  - CI_WEB_SCREENSHOT_DELAY = '30'
+  - CI_DOCKERENV = 'TZ=US/Pacific'
+  - CI_AUTH = 'user:password'
+  - CI_WEBPATH = ''
