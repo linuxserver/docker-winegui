@@ -40,7 +40,7 @@ RUN \
   apt-get install -y --install-recommends \
     winehq-stable \
     winetricks && \
-  echo "**** install github-desktop ****" && \
+  echo "**** install winegui ****" && \
   if [ -z ${WINEGUI_VERSION+x} ]; then \
     WINEGUI_VERSION=$(curl -sX GET "https://api.github.com/repos/winegui/WineGUI/releases/latest" \
     | awk '/tag_name/{print $4;exit}' FS='[""]'); \
