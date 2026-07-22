@@ -993,7 +993,7 @@ libthai-data                                                                  0.
 libthai0                                                                      0.1.29-2+b1                            deb        (+1 duplicate)   
 libtheoradec1                                                                 1.2.0~alpha1+dfsg-6                    deb        (+1 duplicate)   
 libtheoraenc1                                                                 1.2.0~alpha1+dfsg-6                    deb        (+1 duplicate)   
-libtiff6                                                                      4.7.0-3+deb13u2                        deb        (+1 duplicate)   
+libtiff6                                                                      4.7.0-3+deb13u3                        deb        (+1 duplicate)   
 libtinfo6                                                                     6.5+20250216-2                         deb        (+1 duplicate)   
 libtirpc-common                                                               1.3.6+ds-1                             deb                         
 libtirpc3t64                                                                  1.3.6+ds-1                             deb                         
