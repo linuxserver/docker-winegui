@@ -649,7 +649,7 @@ labwc                                                                         0.
 libabsl20240722                                                               20240722.0-4                            deb        (+1 duplicate)   
 libacl1                                                                       2.3.2-2+b1                              deb                         
 libadwaita-1-0                                                                1.7.6-1~deb13u1                         deb                         
-libaom3                                                                       3.12.1-1                                deb        (+1 duplicate)   
+libaom3                                                                       3.12.1-1+deb13u1                        deb        (+1 duplicate)   
 libapparmor1                                                                  4.1.0-1                                 deb                         
 libappstream5                                                                 1.0.5-1                                 deb                         
 libapt-pkg7.0                                                                 3.0.3                                   deb                         
@@ -1290,7 +1290,7 @@ wheel                                                                         0.
 wine-stable                                                                   11.0.0.0~trixie-1                       deb                         
 wine-stable-amd64                                                             11.0.0.0~trixie-1                       deb                         
 wine-stable-i386                                                              11.0.0.0~trixie-1                       deb                         
-winegui                                                                       4.2.0                                   deb                         
+winegui                                                                       4.2.1                                   deb                         
 winehq-stable                                                                 11.0.0.0~trixie-1                       deb                         
 winetricks                                                                    20250102-1                              deb                         
 wl-clipboard                                                                  2.2.1-2                                 deb                         
