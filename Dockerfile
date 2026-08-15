@@ -43,7 +43,7 @@ RUN \
   echo "**** install winegui ****" && \
   if [ -z ${WINEGUI_VERSION+x} ]; then \
     WINEGUI_VERSION=$(curl -sX GET "https://api.github.com/repos/winegui/WineGUI/releases/latest" \
-    | awk '/tag_name/{print $4;exit}' FS='[""]'); \
+    | jq -r '.tag_name'); \
   fi && \
   curl -o \
     /tmp/winegui.deb -L \
