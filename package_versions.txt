@@ -720,7 +720,7 @@ libevdev2                                                                     1.
 libevent-2.1-7t64                                                             2.1.12-stable-10+b1                     deb                         
 libexempi8                                                                    2.6.6-2                                 deb                         
 libexif12                                                                     0.6.25-1+deb13u1                        deb        (+1 duplicate)   
-libexpat1                                                                     2.8.2-1~deb13u1                         deb        (+1 duplicate)   
+libexpat1                                                                     2.8.3-1~deb13u1                         deb        (+1 duplicate)   
 libext2fs2t64                                                                 1.47.2-3+b11                            deb                         
 libfcft4t64                                                                   3.3.1-1                                 deb                         
 libfdisk1                                                                     2.41.5-0+deb13u1                        deb                         
