@@ -1318,7 +1318,7 @@ wheel                                                                         0.
 wine-stable                                                                   11.0.0.0~trixie-1                       deb                         
 wine-stable-amd64                                                             11.0.0.0~trixie-1                       deb                         
 wine-stable-i386                                                              11.0.0.0~trixie-1                       deb                         
-winegui                                                                       4.4.0-1~debian13.1                      deb                         
+winegui                                                                       4.5.0-1~debian13.1                      deb                         
 winehq-stable                                                                 11.0.0.0~trixie-1                       deb                         
 winetricks                                                                    20250102-1                              deb                         
 wl-clipboard                                                                  2.2.1-2                                 deb                         
